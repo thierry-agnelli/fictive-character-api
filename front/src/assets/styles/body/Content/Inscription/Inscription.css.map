@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,mBAFe,CAEf,EAAE,CAAA;EACE,WAAW,EAAE,GAAG;CACnB;;AAJL,AAMI,mBANe,CAMf,IAAI,CAAA;EACA,WAAW,EAAG,GAAG;EACjB,aAAa,EAAG,GAAG;CACtB;;AAGL,AAAA,WAAW,CAAA;EACP,gBAAgB,EAAC,OAAO;CAC3B",
+    "sources": [
+        "Inscription.scss"
+    ],
+    "names": [],
+    "file": "Inscription.css"
+}

@@ -1,0 +1,23 @@
+.App{
+  
+    #pageBody{
+        height: 100vh;
+        display: flex;
+        flex-direction: row;    
+    }
+}
+
+.contentLink{
+    color: #778791;
+    text-decoration: none;
+}
+.contentLink:hover{
+    text-decoration: underline;
+}
+.required{
+    color: red;
+}
+
+.error{
+    color: red;
+}

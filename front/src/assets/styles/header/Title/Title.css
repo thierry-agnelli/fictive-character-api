@@ -1,0 +1,11 @@
+#pageTitle {
+  background-color: #B04541;
+  width: 15em;
+  height: 9em;
+  position: absolute;
+}
+
+#pageTitle h1 {
+  padding-left: .5em;
+}
+/*# sourceMappingURL=Title.css.map */

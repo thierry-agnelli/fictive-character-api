@@ -1,0 +1,13 @@
+#subscribeContainer h2 {
+  margin-left: 1em;
+}
+
+#subscribeContainer form {
+  margin-left: 4em;
+  margin-bottom: 2em;
+}
+
+.unvalidPwd {
+  background-color: #F4D7D7;
+}
+/*# sourceMappingURL=Inscription.css.map */

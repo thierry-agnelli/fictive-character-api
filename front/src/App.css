@@ -1,0 +1,28 @@
+.App #pageBody {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+
+.contentLink {
+  color: #778791;
+  text-decoration: none;
+}
+
+.contentLink:hover {
+  text-decoration: underline;
+}
+
+.required {
+  color: red;
+}
+
+.error {
+  color: red;
+}
+/*# sourceMappingURL=App.css.map */

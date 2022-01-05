@@ -1,0 +1,25 @@
+#NavMenu {
+  margin-top: 0em;
+  padding: 1em 1em 1em 2em;
+  -ms-flex-preferred-size: 12em;
+      flex-basis: 12em;
+  min-width: 12em;
+  background-color: #CFCFCF;
+  -webkit-box-shadow: 0.25px 0.5px 5px black;
+          box-shadow: 0.25px 0.5px 5px black;
+}
+
+#NavMenu nav {
+  margin-top: 5em;
+}
+
+#NavMenu nav .navMenuItem {
+  text-decoration: none;
+  color: black;
+}
+
+#NavMenu nav .navMenuItem:hover {
+  text-decoration: underline;
+  color: #778791;
+}
+/*# sourceMappingURL=NavMenu.css.map */

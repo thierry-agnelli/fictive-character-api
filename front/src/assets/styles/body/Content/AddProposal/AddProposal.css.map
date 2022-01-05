@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,qBAFiB,CAEjB,EAAE,CAAA;EACE,WAAW,EAAE,GAAG;CACnB;;AAJL,AAMI,qBANiB,CAMjB,IAAI,CAAA;EACA,WAAW,EAAG,GAAG;EACjB,aAAa,EAAG,GAAG;CACtB",
+    "sources": [
+        "AddProposal.scss"
+    ],
+    "names": [],
+    "file": "AddProposal.css"
+}
